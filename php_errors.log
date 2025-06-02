@@ -1,0 +1,418 @@
+[31-May-2025 13:03:53 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:06:22 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:06:47 UTC] Error in processa_acao.php: Ação inválida: remover
+[31-May-2025 13:07:04 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:11:44 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:11:54 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:13:03 UTC] Error in processa_acao.php: Ação inválida: remover
+[31-May-2025 13:14:51 UTC] Error in processa_acao.php: Ação inválida: remover
+[31-May-2025 13:14:55 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:15:06 UTC] Error in processa_acao.php: Ação inválida: remover
+[31-May-2025 13:15:11 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:15:37 UTC] Error in processa_acao.php: Ação inválida: remover
+[31-May-2025 13:15:55 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:20:46 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:20:53 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:21:03 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:22:26 UTC] Error in processa_acao.php: Key 'idx_pedidos_data_pedido' doesn't exist in table 'pedidos'
+[31-May-2025 13:22:42 UTC] Error in processa_acao.php: Key 'idx_pedidos_data_pedido' doesn't exist in table 'pedidos'
+[31-May-2025 13:23:00 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:23:05 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:23:05 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:33:33 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:33:41 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:33:41 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:33:46 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:33:46 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:40:21 UTC] Error in processa_acao.php: Key 'idx_produtos_nome_produto' doesn't exist in table 'produtos'
+[31-May-2025 13:40:38 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:40:49 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 13:40:49 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 17:37:44 UTC] Error in processa_acao.php: Key 'idx_vendas_cliente_id' doesn't exist in table 'vendas'
+[31-May-2025 17:39:06 UTC] Error in processa_acao.php: Key 'idx_pedidos_data_pedido' doesn't exist in table 'pedidos'
+[31-May-2025 17:44:27 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 17:49:45 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 18:01:40 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[31-May-2025 18:37:20 UTC] Error in processa_acao.php: Key 'idx_pedidos_data_pedido' doesn't exist in table 'pedidos'
+[02-Jun-2025 09:46:13 UTC] Error in processa_acao.php: Key 'idx_vendas_cliente_id' doesn't exist in table 'vendas'
+[02-Jun-2025 09:46:17 UTC] Error in processa_acao.php: Key 'idx_vendas_cliente_id' doesn't exist in table 'vendas'
+[02-Jun-2025 09:46:23 UTC] Error in processa_acao.php: Key 'idx_vendas_cliente_id' doesn't exist in table 'vendas'
+[02-Jun-2025 09:46:43 UTC] Error in processa_acao.php: Key 'idx_vendas_cliente_id' doesn't exist in table 'vendas'
+[02-Jun-2025 10:50:05 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 10:51:51 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 10:54:14 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 10:54:23 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:07:35 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:07:48 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:08:09 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:14:18 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:18:37 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:18:58 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:24:18 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:25:51 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:31:08 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:35:34 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 11:45:03 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 12:31:36 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 13:07:42 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 13:11:31 UTC] Error in processa_acao.php: Key 'idx_vendas_data_venda' doesn't exist in table 'vendas'
+[02-Jun-2025 15:32:40 UTC] usarIndice: false
+[02-Jun-2025 15:32:40 UTC] indice_existente: false
+[02-Jun-2025 15:32:40 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 15:32:40 UTC] indexHint: 
+[02-Jun-2025 15:33:00 UTC] usarIndice: false
+[02-Jun-2025 15:33:00 UTC] indice_existente: true
+[02-Jun-2025 15:33:00 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 15:33:00 UTC] indexHint:  FORCE INDEX (`idx_produtos_nome_produto`)
+[02-Jun-2025 15:33:24 UTC] usarIndice: false
+[02-Jun-2025 15:33:24 UTC] indice_existente: false
+[02-Jun-2025 15:33:24 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:33:24 UTC] indexHint: 
+[02-Jun-2025 15:33:35 UTC] usarIndice: false
+[02-Jun-2025 15:33:35 UTC] indice_existente: true
+[02-Jun-2025 15:33:35 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:33:35 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda`)
+[02-Jun-2025 15:33:50 UTC] usarIndice: false
+[02-Jun-2025 15:33:50 UTC] indice_existente: false
+[02-Jun-2025 15:33:50 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 15:33:50 UTC] indexHint: 
+[02-Jun-2025 15:33:58 UTC] usarIndice: false
+[02-Jun-2025 15:33:58 UTC] indice_existente: true
+[02-Jun-2025 15:33:58 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 15:33:58 UTC] indexHint:  FORCE INDEX (`idx_pedidos_data_pedido`)
+[02-Jun-2025 15:34:18 UTC] usarIndice: false
+[02-Jun-2025 15:34:18 UTC] indice_existente: false
+[02-Jun-2025 15:34:18 UTC] index: idx_pedidos_cliente_id
+[02-Jun-2025 15:34:18 UTC] indexHint: 
+[02-Jun-2025 15:34:26 UTC] usarIndice: false
+[02-Jun-2025 15:34:26 UTC] indice_existente: true
+[02-Jun-2025 15:34:26 UTC] index: idx_pedidos_cliente_id
+[02-Jun-2025 15:34:26 UTC] indexHint:  FORCE INDEX (`idx_pedidos_cliente_id`)
+[02-Jun-2025 15:34:49 UTC] usarIndice: false
+[02-Jun-2025 15:34:49 UTC] indice_existente: false
+[02-Jun-2025 15:34:49 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:34:49 UTC] indexHint: 
+[02-Jun-2025 15:36:28 UTC] usarIndice: false
+[02-Jun-2025 15:36:28 UTC] indice_existente: true
+[02-Jun-2025 15:36:28 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:36:28 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda`)
+[02-Jun-2025 15:36:34 UTC] usarIndice: false
+[02-Jun-2025 15:36:34 UTC] indice_existente: false
+[02-Jun-2025 15:36:34 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:36:34 UTC] indexHint: 
+[02-Jun-2025 15:37:04 UTC] usarIndice: false
+[02-Jun-2025 15:37:04 UTC] indice_existente: false
+[02-Jun-2025 15:37:04 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:37:04 UTC] indexHint: 
+[02-Jun-2025 15:37:19 UTC] usarIndice: false
+[02-Jun-2025 15:37:19 UTC] indice_existente: true
+[02-Jun-2025 15:37:19 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:37:19 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda`)
+[02-Jun-2025 15:37:58 UTC] usarIndice: false
+[02-Jun-2025 15:37:58 UTC] indice_existente: false
+[02-Jun-2025 15:37:58 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:37:58 UTC] indexHint: 
+[02-Jun-2025 15:38:55 UTC] usarIndice: false
+[02-Jun-2025 15:38:55 UTC] indice_existente: false
+[02-Jun-2025 15:38:55 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:38:55 UTC] indexHint: 
+[02-Jun-2025 15:39:16 UTC] usarIndice: false
+[02-Jun-2025 15:39:16 UTC] indice_existente: true
+[02-Jun-2025 15:39:16 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:39:16 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda`)
+[02-Jun-2025 15:39:37 UTC] usarIndice: false
+[02-Jun-2025 15:39:37 UTC] indice_existente: false
+[02-Jun-2025 15:39:37 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 15:39:37 UTC] indexHint: 
+[02-Jun-2025 15:40:07 UTC] usarIndice: false
+[02-Jun-2025 15:40:07 UTC] indice_existente: true
+[02-Jun-2025 15:40:07 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 15:40:07 UTC] indexHint:  FORCE INDEX (`idx_pedidos_data_pedido`)
+[02-Jun-2025 15:40:25 UTC] usarIndice: false
+[02-Jun-2025 15:40:25 UTC] indice_existente: false
+[02-Jun-2025 15:40:25 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 15:40:25 UTC] indexHint: 
+[02-Jun-2025 15:40:57 UTC] usarIndice: false
+[02-Jun-2025 15:40:57 UTC] indice_existente: true
+[02-Jun-2025 15:40:57 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 15:40:57 UTC] indexHint:  FORCE INDEX (`idx_produtos_nome_produto`)
+[02-Jun-2025 15:41:34 UTC] usarIndice: false
+[02-Jun-2025 15:41:34 UTC] indice_existente: false
+[02-Jun-2025 15:41:34 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 15:41:34 UTC] indexHint: 
+[02-Jun-2025 15:41:50 UTC] usarIndice: false
+[02-Jun-2025 15:41:50 UTC] indice_existente: false
+[02-Jun-2025 15:41:50 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 15:41:50 UTC] indexHint: 
+[02-Jun-2025 15:47:34 UTC] usarIndice: false
+[02-Jun-2025 15:47:34 UTC] indice_existente: false
+[02-Jun-2025 15:47:34 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 15:47:44 UTC] usarIndice: true
+[02-Jun-2025 15:47:44 UTC] indice_existente: true
+[02-Jun-2025 15:47:44 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 15:50:29 UTC] usarIndice: false
+[02-Jun-2025 15:50:29 UTC] indice_existente: true
+[02-Jun-2025 15:50:29 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 15:50:39 UTC] usarIndice: true
+[02-Jun-2025 15:50:39 UTC] indice_existente: true
+[02-Jun-2025 15:50:39 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 15:54:33 UTC] usarIndice: false
+[02-Jun-2025 15:54:33 UTC] indice_existente: true
+[02-Jun-2025 15:54:33 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 15:54:43 UTC] usarIndice: true
+[02-Jun-2025 15:54:43 UTC] indice_existente: true
+[02-Jun-2025 15:54:43 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:08:47 UTC] usarIndice: false
+[02-Jun-2025 16:08:47 UTC] indice_existente: true
+[02-Jun-2025 16:08:47 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:08:57 UTC] usarIndice: true
+[02-Jun-2025 16:08:57 UTC] indice_existente: true
+[02-Jun-2025 16:08:57 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:09:38 UTC] usarIndice: false
+[02-Jun-2025 16:09:38 UTC] indice_existente: true
+[02-Jun-2025 16:09:38 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:09:49 UTC] usarIndice: true
+[02-Jun-2025 16:09:49 UTC] indice_existente: true
+[02-Jun-2025 16:09:49 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:13:10 UTC] usarIndice: false
+[02-Jun-2025 16:13:10 UTC] indice_existente: true
+[02-Jun-2025 16:13:10 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:13:27 UTC] usarIndice: true
+[02-Jun-2025 16:13:27 UTC] indice_existente: true
+[02-Jun-2025 16:13:27 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:14:23 UTC] usarIndice: false
+[02-Jun-2025 16:14:23 UTC] indice_existente: true
+[02-Jun-2025 16:14:23 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:14:23 UTC] indexHint:  FORCE INDEX (`idx_produtos_nome_produto`)
+[02-Jun-2025 16:14:50 UTC] usarIndice: false
+[02-Jun-2025 16:14:50 UTC] indice_existente: false
+[02-Jun-2025 16:14:50 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:14:50 UTC] indexHint: 
+[02-Jun-2025 16:15:10 UTC] usarIndice: false
+[02-Jun-2025 16:15:10 UTC] indice_existente: true
+[02-Jun-2025 16:15:10 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:15:10 UTC] indexHint:  FORCE INDEX (`idx_produtos_nome_produto`)
+[02-Jun-2025 16:15:48 UTC] usarIndice: false
+[02-Jun-2025 16:15:48 UTC] indice_existente: true
+[02-Jun-2025 16:15:48 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:15:48 UTC] indexHint:  FORCE INDEX (`idx_produtos_nome_produto`)
+[02-Jun-2025 16:16:31 UTC] usarIndice: false
+[02-Jun-2025 16:16:31 UTC] indice_existente: false
+[02-Jun-2025 16:16:31 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:16:31 UTC] indexHint: 
+[02-Jun-2025 16:16:52 UTC] usarIndice: false
+[02-Jun-2025 16:16:52 UTC] indice_existente: true
+[02-Jun-2025 16:16:52 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:16:52 UTC] indexHint:  FORCE INDEX (`idx_produtos_nome_produto`)
+[02-Jun-2025 16:17:31 UTC] usarIndice: false
+[02-Jun-2025 16:17:31 UTC] indice_existente: false
+[02-Jun-2025 16:17:31 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:17:31 UTC] indexHint: 
+[02-Jun-2025 16:17:40 UTC] usarIndice: false
+[02-Jun-2025 16:17:40 UTC] indice_existente: true
+[02-Jun-2025 16:17:40 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:17:40 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda`)
+[02-Jun-2025 16:18:17 UTC] usarIndice: false
+[02-Jun-2025 16:18:17 UTC] indice_existente: false
+[02-Jun-2025 16:18:17 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:18:17 UTC] indexHint: 
+[02-Jun-2025 16:19:10 UTC] usarIndice: false
+[02-Jun-2025 16:19:10 UTC] indice_existente: false
+[02-Jun-2025 16:19:10 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:19:10 UTC] indexHint: 
+[02-Jun-2025 16:19:28 UTC] usarIndice: false
+[02-Jun-2025 16:19:28 UTC] indice_existente: true
+[02-Jun-2025 16:19:28 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:19:28 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda`)
+[02-Jun-2025 16:19:47 UTC] usarIndice: false
+[02-Jun-2025 16:19:47 UTC] indice_existente: false
+[02-Jun-2025 16:19:47 UTC] index: idx_vendas_cliente_id
+[02-Jun-2025 16:19:47 UTC] indexHint: 
+[02-Jun-2025 16:19:57 UTC] usarIndice: false
+[02-Jun-2025 16:19:57 UTC] indice_existente: true
+[02-Jun-2025 16:19:57 UTC] index: idx_vendas_cliente_id
+[02-Jun-2025 16:19:57 UTC] indexHint:  FORCE INDEX (`idx_vendas_cliente_id`)
+[02-Jun-2025 16:20:11 UTC] usarIndice: false
+[02-Jun-2025 16:20:11 UTC] indice_existente: false
+[02-Jun-2025 16:20:11 UTC] index: idx_vendas_data_venda_vendedor_id
+[02-Jun-2025 16:20:11 UTC] indexHint: 
+[02-Jun-2025 16:20:21 UTC] usarIndice: false
+[02-Jun-2025 16:20:21 UTC] indice_existente: true
+[02-Jun-2025 16:20:21 UTC] index: idx_vendas_data_venda_vendedor_id
+[02-Jun-2025 16:20:21 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda_vendedor_id`)
+[02-Jun-2025 16:30:45 UTC] usarIndice: false
+[02-Jun-2025 16:30:45 UTC] indice_existente: false
+[02-Jun-2025 16:30:45 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:30:45 UTC] indexHint: 
+[02-Jun-2025 16:31:05 UTC] usarIndice: false
+[02-Jun-2025 16:31:05 UTC] indice_existente: true
+[02-Jun-2025 16:31:05 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:31:05 UTC] indexHint:  FORCE INDEX (`idx_produtos_nome_produto`)
+[02-Jun-2025 16:31:41 UTC] usarIndice: false
+[02-Jun-2025 16:31:41 UTC] indice_existente: false
+[02-Jun-2025 16:31:41 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:31:41 UTC] indexHint: 
+[02-Jun-2025 16:32:00 UTC] usarIndice: false
+[02-Jun-2025 16:32:00 UTC] indice_existente: true
+[02-Jun-2025 16:32:00 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:32:00 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda`)
+[02-Jun-2025 16:32:11 UTC] usarIndice: false
+[02-Jun-2025 16:32:11 UTC] indice_existente: false
+[02-Jun-2025 16:32:11 UTC] index: idx_vendas_cliente_id
+[02-Jun-2025 16:32:11 UTC] indexHint: 
+[02-Jun-2025 16:32:21 UTC] usarIndice: false
+[02-Jun-2025 16:32:21 UTC] indice_existente: true
+[02-Jun-2025 16:32:21 UTC] index: idx_vendas_cliente_id
+[02-Jun-2025 16:32:21 UTC] indexHint:  FORCE INDEX (`idx_vendas_cliente_id`)
+[02-Jun-2025 16:32:32 UTC] usarIndice: false
+[02-Jun-2025 16:32:32 UTC] indice_existente: false
+[02-Jun-2025 16:32:32 UTC] index: idx_vendas_data_venda_vendedor_id
+[02-Jun-2025 16:32:32 UTC] indexHint: 
+[02-Jun-2025 16:32:42 UTC] usarIndice: false
+[02-Jun-2025 16:32:42 UTC] indice_existente: true
+[02-Jun-2025 16:32:42 UTC] index: idx_vendas_data_venda_vendedor_id
+[02-Jun-2025 16:32:42 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda_vendedor_id`)
+[02-Jun-2025 16:32:50 UTC] usarIndice: false
+[02-Jun-2025 16:32:50 UTC] indice_existente: false
+[02-Jun-2025 16:32:50 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:32:50 UTC] indexHint: 
+[02-Jun-2025 16:32:57 UTC] usarIndice: false
+[02-Jun-2025 16:32:57 UTC] indice_existente: true
+[02-Jun-2025 16:32:57 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:32:57 UTC] indexHint:  FORCE INDEX (`idx_pedidos_data_pedido`)
+[02-Jun-2025 16:33:08 UTC] usarIndice: false
+[02-Jun-2025 16:33:08 UTC] indice_existente: false
+[02-Jun-2025 16:33:08 UTC] index: idx_pedidos_cliente_id
+[02-Jun-2025 16:33:08 UTC] indexHint: 
+[02-Jun-2025 16:33:13 UTC] usarIndice: false
+[02-Jun-2025 16:33:13 UTC] indice_existente: true
+[02-Jun-2025 16:33:13 UTC] index: idx_pedidos_cliente_id
+[02-Jun-2025 16:33:13 UTC] indexHint:  FORCE INDEX (`idx_pedidos_cliente_id`)
+[02-Jun-2025 16:33:27 UTC] usarIndice: false
+[02-Jun-2025 16:33:27 UTC] indice_existente: false
+[02-Jun-2025 16:33:27 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:33:27 UTC] indexHint: 
+[02-Jun-2025 16:33:48 UTC] usarIndice: false
+[02-Jun-2025 16:33:48 UTC] indice_existente: true
+[02-Jun-2025 16:33:48 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:33:48 UTC] indexHint:  FORCE INDEX (`idx_produtos_nome_produto`)
+[02-Jun-2025 16:34:28 UTC] usarIndice: false
+[02-Jun-2025 16:34:28 UTC] indice_existente: false
+[02-Jun-2025 16:34:28 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:34:28 UTC] indexHint: 
+[02-Jun-2025 16:35:03 UTC] usarIndice: false
+[02-Jun-2025 16:35:03 UTC] indice_existente: false
+[02-Jun-2025 16:35:03 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:35:03 UTC] indexHint: 
+[02-Jun-2025 16:35:14 UTC] usarIndice: false
+[02-Jun-2025 16:35:14 UTC] indice_existente: true
+[02-Jun-2025 16:35:14 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:35:14 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda`)
+[02-Jun-2025 16:35:37 UTC] usarIndice: false
+[02-Jun-2025 16:35:37 UTC] indice_existente: false
+[02-Jun-2025 16:35:37 UTC] index: idx_vendas_cliente_id
+[02-Jun-2025 16:35:37 UTC] indexHint: 
+[02-Jun-2025 16:35:51 UTC] usarIndice: false
+[02-Jun-2025 16:35:51 UTC] indice_existente: true
+[02-Jun-2025 16:35:51 UTC] index: idx_vendas_cliente_id
+[02-Jun-2025 16:35:51 UTC] indexHint:  FORCE INDEX (`idx_vendas_cliente_id`)
+[02-Jun-2025 16:36:02 UTC] usarIndice: false
+[02-Jun-2025 16:36:02 UTC] indice_existente: false
+[02-Jun-2025 16:36:02 UTC] index: idx_vendas_data_venda_vendedor_id
+[02-Jun-2025 16:36:02 UTC] indexHint: 
+[02-Jun-2025 16:36:18 UTC] usarIndice: false
+[02-Jun-2025 16:36:18 UTC] indice_existente: true
+[02-Jun-2025 16:36:18 UTC] index: idx_vendas_data_venda_vendedor_id
+[02-Jun-2025 16:36:18 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda_vendedor_id`)
+[02-Jun-2025 16:36:37 UTC] usarIndice: false
+[02-Jun-2025 16:36:37 UTC] indice_existente: false
+[02-Jun-2025 16:36:37 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:36:37 UTC] indexHint: 
+[02-Jun-2025 16:36:50 UTC] usarIndice: false
+[02-Jun-2025 16:36:50 UTC] indice_existente: true
+[02-Jun-2025 16:36:50 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:36:50 UTC] indexHint:  FORCE INDEX (`idx_pedidos_data_pedido`)
+[02-Jun-2025 16:37:08 UTC] usarIndice: false
+[02-Jun-2025 16:37:08 UTC] indice_existente: false
+[02-Jun-2025 16:37:08 UTC] index: idx_pedidos_cliente_id
+[02-Jun-2025 16:37:24 UTC] usarIndice: true
+[02-Jun-2025 16:37:24 UTC] indice_existente: true
+[02-Jun-2025 16:37:24 UTC] index: idx_pedidos_cliente_id
+[02-Jun-2025 16:38:05 UTC] usarIndice: false
+[02-Jun-2025 16:38:05 UTC] indice_existente: false
+[02-Jun-2025 16:38:05 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:38:05 UTC] indexHint: 
+[02-Jun-2025 16:38:35 UTC] usarIndice: false
+[02-Jun-2025 16:38:35 UTC] indice_existente: false
+[02-Jun-2025 16:38:35 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:38:35 UTC] indexHint: 
+[02-Jun-2025 16:38:51 UTC] usarIndice: false
+[02-Jun-2025 16:38:51 UTC] indice_existente: false
+[02-Jun-2025 16:38:51 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:38:51 UTC] indexHint: 
+[02-Jun-2025 16:40:07 UTC] usarIndice: false
+[02-Jun-2025 16:40:07 UTC] indice_existente: false
+[02-Jun-2025 16:40:07 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:40:07 UTC] indexHint: 
+[02-Jun-2025 16:40:18 UTC] usarIndice: false
+[02-Jun-2025 16:40:18 UTC] indice_existente: true
+[02-Jun-2025 16:40:18 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:40:18 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda`)
+[02-Jun-2025 16:40:35 UTC] usarIndice: false
+[02-Jun-2025 16:40:35 UTC] indice_existente: false
+[02-Jun-2025 16:40:35 UTC] index: idx_vendas_cliente_id
+[02-Jun-2025 16:40:35 UTC] indexHint: 
+[02-Jun-2025 16:40:46 UTC] usarIndice: false
+[02-Jun-2025 16:40:46 UTC] indice_existente: true
+[02-Jun-2025 16:40:46 UTC] index: idx_vendas_cliente_id
+[02-Jun-2025 16:40:46 UTC] indexHint:  FORCE INDEX (`idx_vendas_cliente_id`)
+[02-Jun-2025 16:41:06 UTC] usarIndice: false
+[02-Jun-2025 16:41:06 UTC] indice_existente: false
+[02-Jun-2025 16:41:06 UTC] index: idx_vendas_data_venda_vendedor_id
+[02-Jun-2025 16:41:06 UTC] indexHint: 
+[02-Jun-2025 16:41:22 UTC] usarIndice: false
+[02-Jun-2025 16:41:22 UTC] indice_existente: true
+[02-Jun-2025 16:41:22 UTC] index: idx_vendas_data_venda_vendedor_id
+[02-Jun-2025 16:41:22 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda_vendedor_id`)
+[02-Jun-2025 16:41:44 UTC] usarIndice: false
+[02-Jun-2025 16:41:44 UTC] indice_existente: false
+[02-Jun-2025 16:41:44 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:42:01 UTC] usarIndice: true
+[02-Jun-2025 16:42:01 UTC] indice_existente: true
+[02-Jun-2025 16:42:01 UTC] index: idx_pedidos_data_pedido
+[02-Jun-2025 16:42:28 UTC] usarIndice: false
+[02-Jun-2025 16:42:28 UTC] indice_existente: false
+[02-Jun-2025 16:42:28 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:42:28 UTC] indexHint: 
+[02-Jun-2025 16:42:52 UTC] usarIndice: false
+[02-Jun-2025 16:42:52 UTC] indice_existente: true
+[02-Jun-2025 16:42:52 UTC] index: idx_produtos_nome_produto
+[02-Jun-2025 16:42:52 UTC] indexHint:  FORCE INDEX (`idx_produtos_nome_produto`)
+[02-Jun-2025 16:43:32 UTC] usarIndice: false
+[02-Jun-2025 16:43:32 UTC] indice_existente: false
+[02-Jun-2025 16:43:32 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:43:32 UTC] indexHint: 
+[02-Jun-2025 16:44:04 UTC] usarIndice: false
+[02-Jun-2025 16:44:04 UTC] indice_existente: false
+[02-Jun-2025 16:44:04 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:44:04 UTC] indexHint: 
+[02-Jun-2025 16:44:17 UTC] usarIndice: false
+[02-Jun-2025 16:44:17 UTC] indice_existente: true
+[02-Jun-2025 16:44:17 UTC] index: idx_vendas_data_venda
+[02-Jun-2025 16:44:17 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda`)
+[02-Jun-2025 16:44:37 UTC] usarIndice: false
+[02-Jun-2025 16:44:37 UTC] indice_existente: false
+[02-Jun-2025 16:44:37 UTC] index: idx_vendas_cliente_id
+[02-Jun-2025 16:44:37 UTC] indexHint: 
+[02-Jun-2025 16:44:54 UTC] usarIndice: false
+[02-Jun-2025 16:44:54 UTC] indice_existente: true
+[02-Jun-2025 16:44:54 UTC] index: idx_vendas_cliente_id
+[02-Jun-2025 16:44:54 UTC] indexHint:  FORCE INDEX (`idx_vendas_cliente_id`)
+[02-Jun-2025 16:45:14 UTC] usarIndice: false
+[02-Jun-2025 16:45:14 UTC] indice_existente: false
+[02-Jun-2025 16:45:14 UTC] index: idx_vendas_data_venda_vendedor_id
+[02-Jun-2025 16:45:14 UTC] indexHint: 
+[02-Jun-2025 16:45:30 UTC] usarIndice: false
+[02-Jun-2025 16:45:30 UTC] indice_existente: true
+[02-Jun-2025 16:45:30 UTC] index: idx_vendas_data_venda_vendedor_id
+[02-Jun-2025 16:45:30 UTC] indexHint:  FORCE INDEX (`idx_vendas_data_venda_vendedor_id`)

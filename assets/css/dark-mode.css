@@ -1,0 +1,142 @@
+/* Tema Claro (padrão) */
+:root {
+    --background-color: #f8f9fa;
+    --text-color: #212529;
+    --card-background: #ffffff;
+    --card-border: #dee2e6;
+    --primary-color: #0d6efd;
+    --success-color: #28a745;
+    --danger-color: #dc3545;
+    --warning-color: #ffc107;
+    --secondary-color: #6c757d;
+    --table-header-bg: #e9ecef;
+    --table-border: #dee2e6;
+    --alert-success-bg: #d4edda;
+    --alert-success-text: #155724;
+    --alert-danger-bg: #f8d7da;
+    --alert-danger-text: #721c24;
+    --alert-info-bg: #d1ecf1;
+    --alert-info-text: #0c5460;
+}
+
+/* Tema Escuro */
+[data-theme="dark"] {
+    --background-color: #212529;
+    --text-color: #f8f9fa;
+    --card-background: #343a40;
+    --card-border: #495057;
+    --primary-color: #4dabf7;
+    --success-color: #51cf66;
+    --danger-color: #ff6b6b;
+    --warning-color: #ffd43b;
+    --secondary-color: #868e96;
+    --table-header-bg: #495057;
+    --table-border: #6c757d;
+    --alert-success-bg: #2b8a3e;
+    --alert-success-text: #e6fcf5;
+    --alert-danger-bg: #c92a2a;
+    --alert-danger-text: #fff5f5;
+    --alert-info-bg: #1864ab;
+    --alert-info-text: #e7f5ff;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.card {
+    background-color: var(--card-background);
+    border-color: var(--card-border);
+}
+
+/* Correção: Aplicar cor do texto no modo escuro para elementos dentro do cartão */
+.card-body {
+    color: var(--text-color);
+}
+
+.card-body .card-title,
+.card-body p,
+.card-body strong {
+    color: var(--text-color);
+}
+
+.table {
+    color: var(--text-color);
+}
+
+.table-bordered {
+    border-color: var(--table-border);
+}
+
+.table-secondary {
+    background-color: var(--table-header-bg);
+}
+
+.alert-success {
+    background-color: var(--alert-success-bg);
+    color: var(--alert-success-text);
+}
+
+.alert-danger {
+    background-color: var(--alert-danger-bg);
+    color: var(--alert-danger-text);
+}
+
+.alert-info {
+    background-color: var(--alert-info-bg);
+    color: var(--alert-info-text);
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-success {
+    background-color: var(--success-color);
+    border-color: var(--success-color);
+}
+
+.btn-danger {
+    background-color: var(--danger-color);
+    border-color: var(--danger-color);
+}
+
+.btn-warning {
+    background-color: var(--warning-color);
+    border-color: var(--warning-color);
+}
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+.form-select, .form-control {
+    background-color: var(--card-background);
+    color: var(--text-color);
+    border-color: var(--card-border);
+}
+
+.form-select:focus, .form-control:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 0.2rem rgba(var(--primary-color), 0.25);
+}
+
+.checkbox-desabilitado .form-check-input {
+    cursor: not-allowed;
+    background-color: var(--card-background);
+    border-color: var(--card-border);
+}
+
+/* Ajuste para o canvas do Chart.js */
+canvas {
+    background-color: var(--card-background);
+    border-radius: 0.25rem;
+}
+
+#statusIndice{
+    display:none;
+}
