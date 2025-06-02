@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto: Otimização de Consultas SQL com e sem Índices
 
 Este projeto tem como objetivo demonstrar, na prática, a **melhoria de performance** em consultas SQL com o uso de **índices** em um banco de dados MySQL.
@@ -130,3 +131,7 @@ Desenvolvido como parte da atividade de Modelagem e Otimização de Banco de Dad
 
 [Rolf Heinz Rostock]
 Data: [26052025]
+=======
+# modelagem_de_dados
+Estudo de caso UniDomBosco
+>>>>>>> 723c7a78b4bae85ee0ba7217bf7973662328e193
